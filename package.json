@@ -1,0 +1,20 @@
+{
+  "name": "mixpanel-js-shim",
+  "version": "2.0.0",
+  "description": "Another commonJS-compatible mixpanel implementation",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lens-app/mixpanel-js-shim.git"
+  },
+  "keywords": [
+    "mixpanel",
+    "commonjs"
+  ],
+  "author": "Paolo Moretti <paolo@lens.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lens-app/mixpanel-js-shim/issues"
+  },
+  "homepage": "https://github.com/lens-app/mixpanel-js-shim#readme"
+}
